@@ -1,0 +1,132 @@
+body{
+    font-family: 'Hind', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+.center-first{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 3px;
+    background-image: url(images/donation13.jpg);
+    
+}
+.text-c{
+     margin-left:20%;
+     margin-right:20%;
+     
+}
+.color{
+    color:white;
+    margin-bottom: 140px;
+}
+.donate-now{
+    background-image: linear-gradient(tomato,tomato);
+    text-decoration: none;
+    color: white;
+    font-weight:700 ;
+    padding: 8px 8px;
+    border-radius: 10px;
+    box-shadow:10px 10px 40px gray;
+
+    
+}
+.center-second{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 3px;
+    margin-bottom: 120px;
+}
+.i-block{
+    width: 100px;
+    height: 100px; 
+    padding: 20px;
+    padding-top:20px;
+    background-color:whitesmoke;
+    
+}
+#second-block{
+    width: 100px;
+    height: 100px;
+    padding: 22px;
+    border: 2px solid tomato;
+    background-color:rgba(226, 134, 118, 0.11);
+
+}
+.space {
+    padding-bottom:5% ;
+}
+.space-block{
+    padding-bottom: 5%;
+}
+
+.center-trd{
+    text-align: center;
+    padding-right:15% ;
+    padding-left: 15%;  
+}
+
+
+
+.flexiable-container{
+    display: flex;
+}
+.one-trd-width{
+    width: 30%;
+    padding-top:  3%;
+    padding-left: 3%;
+    padding-right: 3%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.gray-color{
+    background-color: azure;
+}
+.pink-color{
+    background-color: rgba(222, 135, 196, 0.308);
+}
+.yello-color{
+    background-color: rgb(255, 239, 196);
+}
+.center-trd{
+    text-align: center;
+    padding-top: 60px;
+    padding-bottom: 3px;
+    margin-bottom: 120px
+}
+.center-footer{
+    text-align:center ;
+    background-image:url(download.png);
+    color: white;
+}
+.sub-box{
+    width: 100px;
+    height: 100px; 
+    padding: 2% ;
+    border-top:   50px solid rgba(255, 166, 0, 0.315);
+    border-left:  140px solid rgba(255, 166, 0, 0.315);
+    border-right: 140px solid rgba(255, 166, 0, 0.315);
+    border-bottom:50px solid rgba(255, 166, 0, 0.315) ;
+    
+    background-color:whitesmoke;
+    text-align: center;
+    
+}
+   
+
+
+.sub-box-one{
+    background-image: linear-gradient(tomato,tomato);
+    color: white;
+    font-weight:700 ;
+    padding: 8px 8px;
+}
+.donation-heading{
+    text-decoration: underline orangered;
+    color:orangered ;
+}
+.half-width{
+    width: 50%;
+    border-left: 5px solid aquamarine;
+    box-shadow:10px 10px 40px gray;
+    padding: 2%;
+    margin: 2%;
+}
